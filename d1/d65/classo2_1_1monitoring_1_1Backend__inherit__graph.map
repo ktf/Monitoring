@@ -1,0 +1,6 @@
+<map id="o2::monitoring::Backend" name="o2::monitoring::Backend">
+<area shape="rect" id="node2" href="$d0/d1b/classo2_1_1monitoring_1_1backends_1_1ApMonBackend.html" title="Backend that uses AppMon (MonALISA) " alt="" coords="5,220,173,385"/>
+<area shape="rect" id="node3" href="$d9/df5/classo2_1_1monitoring_1_1backends_1_1Flume.html" title="Backend that sends metrics to custum Apache Flume source. " alt="" coords="197,213,365,393"/>
+<area shape="rect" id="node4" href="$dd/d09/classo2_1_1monitoring_1_1backends_1_1InfluxDB.html" title="Backend that sends metrics to InfluxDB time&#45;series databse. " alt="" coords="389,205,557,400"/>
+<area shape="rect" id="node5" href="$d7/db9/classo2_1_1monitoring_1_1backends_1_1InfoLoggerBackend.html" title="Backend that injects metrics to InfoLogger. " alt="" coords="581,220,749,385"/>
+</map>

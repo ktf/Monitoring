@@ -1,0 +1,11 @@
+<map id="/home/travis/build/AliceO2Group/Monitoring/src/Backends/InfluxDB.cxx" name="/home/travis/build/AliceO2Group/Monitoring/src/Backends/InfluxDB.cxx">
+<area shape="rect" id="node2" href="$d1/d78/InfluxDB_8h.html" title="InfluxDB.h" alt="" coords="524,117,607,144"/>
+<area shape="rect" id="node15" href="$d2/d5c/UDP_8h.html" title="../Transports/UDP.h" alt="" coords="723,275,862,301"/>
+<area shape="rect" id="node19" href="$dd/d7d/HTTP_8h.html" title="../Transports/HTTP.h" alt="" coords="1301,275,1447,301"/>
+<area shape="rect" id="node22" href="$dc/d75/MonitoringInternalException_8h.html" title="../Exceptions/Monitoring\lInternalException.h" alt="" coords="693,110,855,151"/>
+<area shape="rect" id="node3" href="$df/d83/Backend_8h.html" title="Monitoring/Backend.h" alt="" coords="139,200,286,227"/>
+<area shape="rect" id="node10" href="$de/dac/TransportInterface_8h.html" title="../Transports/TransportInterface.h" alt="" coords="1119,349,1335,376"/>
+<area shape="rect" id="node11" href="$df/de7/MonLogger_8h.html" title="../MonLogger.h" alt="" coords="450,200,559,227"/>
+<area shape="rect" id="node6" href="$d9/d92/Metric_8h.html" title="Monitoring/Metric.h" alt="" coords="125,275,258,301"/>
+<area shape="rect" id="node9" href="$d9/d33/Tag_8h.html" title="Tag.h" alt="" coords="312,349,366,376"/>
+</map>

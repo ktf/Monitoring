@@ -1,0 +1,5 @@
+<map id="o2::monitoring::transports::TransportInterface" name="o2::monitoring::transports::TransportInterface">
+<area shape="rect" id="node2" href="$d6/da3/classo2_1_1monitoring_1_1transports_1_1HTTP.html" title="HTTP POST transport for Monitoring backends. " alt="" coords="5,177,176,298"/>
+<area shape="rect" id="node3" href="$d9/d31/classo2_1_1monitoring_1_1transports_1_1TCP.html" title="Transport that sends string formatted metrics via TCP. " alt="" coords="200,177,405,298"/>
+<area shape="rect" id="node4" href="$dd/df8/classo2_1_1monitoring_1_1transports_1_1UDP.html" title="Transport that sends string formatted metrics via UDP. " alt="" coords="430,184,636,291"/>
+</map>

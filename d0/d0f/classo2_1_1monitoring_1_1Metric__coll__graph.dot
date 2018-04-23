@@ -1,0 +1,8 @@
+digraph "o2::monitoring::Metric"
+{
+ // INTERACTIVE_SVG=YES
+  bgcolor="transparent";
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  Node1 [label="{o2::monitoring::Metric\n||+ Metric()\l+ Metric()\l+ Metric()\l+ Metric()\l+ Metric()\l+ ~Metric()\l+ getName()\l+ setName()\l+ getTimestamp()\l+ getValue()\l+ getType()\l+ getTags()\l+ setTimestamp()\l+ addTags()\l+ getCurrentTimestamp()\l}",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled" fontcolor="black"];
+}

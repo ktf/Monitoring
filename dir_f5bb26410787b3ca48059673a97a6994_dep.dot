@@ -1,0 +1,9 @@
+digraph "/home/travis/build/AliceO2Group/Monitoring/examples" {
+  bgcolor=transparent;
+  compound=true
+  node [ fontsize="10", fontname="Helvetica"];
+  edge [ labelfontsize="10", labelfontname="Helvetica"];
+  dir_f5bb26410787b3ca48059673a97a6994 [shape=box, label="examples", style="filled", fillcolor="#eeeeff", pencolor="black", URL="dir_f5bb26410787b3ca48059673a97a6994.html"];
+  dir_3ea03b5bad7df07991502014a866ac0e [shape=box label="include" color="red" URL="dir_3ea03b5bad7df07991502014a866ac0e.html"];
+  dir_f5bb26410787b3ca48059673a97a6994->dir_3ea03b5bad7df07991502014a866ac0e [headlabel="10", labeldistance=1.5 headhref="dir_000006_000007.html"];
+}

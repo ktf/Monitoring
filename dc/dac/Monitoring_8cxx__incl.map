@@ -1,0 +1,14 @@
+<map id="/home/travis/build/AliceO2Group/Monitoring/src/Monitoring.cxx" name="/home/travis/build/AliceO2Group/Monitoring/src/Monitoring.cxx">
+<area shape="rect" id="node2" href="$d0/d98/Monitoring_8h.html" title="Monitoring/Monitoring.h" alt="" coords="431,117,588,144"/>
+<area shape="rect" id="node24" href="$df/de7/MonLogger_8h.html" title="MonLogger.h" alt="" coords="1854,208,1951,235"/>
+<area shape="rect" id="node26" href="$dc/d0c/ProcessDetails_8h.html" title="ProcessDetails.h" alt="" coords="1331,365,1454,392"/>
+<area shape="rect" id="node27" href="$dc/d75/MonitoringInternalException_8h.html" title="Exceptions/MonitoringInternal\lException.h" alt="" coords="1675,110,1870,151"/>
+<area shape="rect" id="node29" href="$d9/de4/InfoLoggerBackend_8h.html" title="Backends/InfoLoggerBackend.h" alt="" coords="1945,117,2151,144"/>
+<area shape="rect" id="node30" href="$d4/d57/Flume_8h.html" title="Backends/Flume.h" alt="" coords="2227,117,2356,144"/>
+<area shape="rect" id="node12" href="$df/d83/Backend_8h.html" title="Monitoring/Backend.h" alt="" coords="1682,208,1830,235"/>
+<area shape="rect" id="node16" href="$dc/de0/DerivedMetrics_8h.html" title="Monitoring/DerivedMetrics.h" alt="" coords="236,208,420,235"/>
+<area shape="rect" id="node17" href="$df/d93/ProcessMonitor_8h.html" title="Monitoring/ProcessMonitor.h" alt="" coords="750,208,938,235"/>
+<area shape="rect" id="node13" href="$d9/d92/Metric_8h.html" title="Monitoring/Metric.h" alt="" coords="856,291,990,317"/>
+<area shape="rect" id="node15" href="$d9/d33/Tag_8h.html" title="Tag.h" alt="" coords="1129,365,1183,392"/>
+<area shape="rect" id="node31" href="$de/dac/TransportInterface_8h.html" title="../Transports/TransportInterface.h" alt="" coords="2129,365,2346,392"/>
+</map>

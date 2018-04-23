@@ -1,0 +1,12 @@
+digraph "/home/travis/build/AliceO2Group/Monitoring/test" {
+  bgcolor=transparent;
+  compound=true
+  node [ fontsize="10", fontname="Helvetica"];
+  edge [ labelfontsize="10", labelfontname="Helvetica"];
+  dir_4b7e59881ded8b4df16e41a66091e071 [shape=box, label="test", style="filled", fillcolor="#eeeeff", pencolor="black", URL="dir_4b7e59881ded8b4df16e41a66091e071.html"];
+  dir_c8e4ae565341e7bc08b628789fd961a6 [shape=box label="src" color="red" URL="dir_c8e4ae565341e7bc08b628789fd961a6.html"];
+  dir_3ea03b5bad7df07991502014a866ac0e [shape=box label="include" color="red" URL="dir_3ea03b5bad7df07991502014a866ac0e.html"];
+  dir_c8e4ae565341e7bc08b628789fd961a6->dir_3ea03b5bad7df07991502014a866ac0e [headlabel="9", labeldistance=1.5 headhref="dir_000009_000007.html"];
+  dir_4b7e59881ded8b4df16e41a66091e071->dir_c8e4ae565341e7bc08b628789fd961a6 [headlabel="8", labeldistance=1.5 headhref="dir_000014_000009.html"];
+  dir_4b7e59881ded8b4df16e41a66091e071->dir_3ea03b5bad7df07991502014a866ac0e [headlabel="4", labeldistance=1.5 headhref="dir_000014_000007.html"];
+}

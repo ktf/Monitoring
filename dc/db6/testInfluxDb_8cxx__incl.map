@@ -1,0 +1,9 @@
+<map id="/home/travis/build/AliceO2Group/Monitoring/test/testInfluxDb.cxx" name="/home/travis/build/AliceO2Group/Monitoring/test/testInfluxDb.cxx">
+<area shape="rect" id="node2" href="$d7/d79/UriParser_8h.html" title="../src/UriParser/UriParser.h" alt="" coords="5,184,187,211"/>
+<area shape="rect" id="node7" href="$d1/d78/InfluxDB_8h.html" title="../src/Backends/InfluxDB.h" alt="" coords="402,109,581,136"/>
+<area shape="rect" id="node8" href="$df/d83/Backend_8h.html" title="Monitoring/Backend.h" alt="" coords="518,184,665,211"/>
+<area shape="rect" id="node14" href="$de/dac/TransportInterface_8h.html" title="../Transports/TransportInterface.h" alt="" coords="847,184,1064,211"/>
+<area shape="rect" id="node15" href="$df/de7/MonLogger_8h.html" title="../MonLogger.h" alt="" coords="339,184,448,211"/>
+<area shape="rect" id="node10" href="$d9/d92/Metric_8h.html" title="Monitoring/Metric.h" alt="" coords="549,259,683,285"/>
+<area shape="rect" id="node13" href="$d9/d33/Tag_8h.html" title="Tag.h" alt="" coords="386,333,440,360"/>
+</map>

@@ -1,0 +1,10 @@
+digraph "/home/travis/build/AliceO2Group/Monitoring/src/UriParser" {
+  bgcolor=transparent;
+  compound=true
+  node [ fontsize="10", fontname="Helvetica"];
+  edge [ labelfontsize="10", labelfontname="Helvetica"];
+  subgraph clusterdir_c8e4ae565341e7bc08b628789fd961a6 {
+    graph [ bgcolor="#ddddee", pencolor="black", label="src" fontname="Helvetica", fontsize="10", URL="dir_c8e4ae565341e7bc08b628789fd961a6.html"]
+  dir_c8372d71e4a2a12cb86a90ed78302e41 [shape=box, label="UriParser", style="filled", fillcolor="#eeeeff", pencolor="black", URL="dir_c8372d71e4a2a12cb86a90ed78302e41.html"];
+  }
+}

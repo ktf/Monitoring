@@ -1,0 +1,6 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$d0/d57/classo2_1_1monitoring_1_1transports_1_1TransportInterface.html" title="Transport interface for backends. " alt="" coords="5,63,176,105"/>
+<area shape="rect" id="node2" href="$d6/da3/classo2_1_1monitoring_1_1transports_1_1HTTP.html" title="HTTP POST transport for Monitoring backends. " alt="" coords="243,5,413,46"/>
+<area shape="rect" id="node3" href="$d9/d31/classo2_1_1monitoring_1_1transports_1_1TCP.html" title="Transport that sends string formatted metrics via TCP. " alt="" coords="225,71,431,97"/>
+<area shape="rect" id="node4" href="$dd/df8/classo2_1_1monitoring_1_1transports_1_1UDP.html" title="Transport that sends string formatted metrics via UDP. " alt="" coords="225,121,431,148"/>
+</map>

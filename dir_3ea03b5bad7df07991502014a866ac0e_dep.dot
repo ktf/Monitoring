@@ -1,0 +1,11 @@
+digraph "/home/travis/build/AliceO2Group/Monitoring/include" {
+  bgcolor=transparent;
+  compound=true
+  node [ fontsize="10", fontname="Helvetica"];
+  edge [ labelfontsize="10", labelfontname="Helvetica"];
+  subgraph clusterdir_3ea03b5bad7df07991502014a866ac0e {
+    graph [ bgcolor="#eeeeff", pencolor="black", label="" URL="dir_3ea03b5bad7df07991502014a866ac0e.html"];
+    dir_3ea03b5bad7df07991502014a866ac0e [shape=plaintext label="include"];
+    dir_584bc4e26da648e840c91e03a54273d2 [shape=box label="Monitoring" color="black" fillcolor="white" style="filled" URL="dir_584bc4e26da648e840c91e03a54273d2.html"];
+  }
+}
