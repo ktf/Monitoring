@@ -34,12 +34,12 @@ void print_usage()
 int main(int argc, char** argv)
 {
 
-  bool verbose = 0; // if set, prints detailed messages
+  bool verbose = false; // if set, prints detailed messages
   
   std::unique_ptr<Monitoring> monitoringCollector;
-  char option;
+  int option;
 
-  bool isOk = 1;
+  bool isOk = true;
   const char *monitoringURI = nullptr;
   const char *monitoringValue = nullptr;
   const char *monitoringMetric = nullptr;
@@ -61,7 +61,7 @@ int main(int argc, char** argv)
       } break;
      
       case 'v': {
-        verbose = 1;
+        verbose = true;
       } break;
 
       case 'h':
@@ -76,17 +76,17 @@ int main(int argc, char** argv)
 
   if (monitoringURI == nullptr) {
     printf("Unspecified monitoring URI.\n");
-    isOk = 0;
+    isOk = false;
   }
 
   if (monitoringMetric == nullptr) {
     printf("Unspecified monitoring metric.\n");
-    isOk = 0;
+    isOk = false;
   }
 
   if (monitoringValue == nullptr) {
     printf("Unspecified monitoring value.\n");
-    isOk = 0;
+    isOk = false;
   }
   
   if (!isOk) {
@@ -109,11 +109,11 @@ int main(int argc, char** argv)
     printf("\n");
   }
 
-  isOk = 0;
+  isOk = false;
   try {
     monitoringCollector = MonitoringFactory::Get(monitoringURI);
     monitoringCollector->send({ monitoringValueI, monitoringMetric });
-    isOk = 1;
+    isOk = true;
   }
   catch (const std::exception &exc) {
     printf("Exception: %s\n", exc.what());
